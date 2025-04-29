@@ -8,7 +8,7 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY; // Private key of your bot wallet (
 const ORACLE_ADDRESS = "0xaf27A37f46cda90A1bCDbCe7db1Bf2BA2811Db32"; // Your deployed Oracle contract
 const ROUTER_ADDRESS = "0xD85558c4dFB8D2fcb9Bd16292622F0600de717fA"; // Your DEX Router
 const VSG_ADDRESS = "0x83048f0bf34feed8ced419455a4320a735a92e9d"; // WVSG token address
-const USDC_ADDRESS = "0x5FD55E18e1c3AC221c0a8A17330a1C1a92bFF687"; // USDC token address
+const USDC_ADDRESS = "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687"; // USDC token address
 
 // === ABIs ===
 const ORACLE_ABI = [
