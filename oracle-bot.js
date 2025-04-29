@@ -1,5 +1,5 @@
 const { ethers } = require("ethers");
-import dotenv from "dotenv";
+const dotenv from "dotenv";
 dotenv.config();
 
 // === CONFIG ===
