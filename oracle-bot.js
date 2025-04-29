@@ -47,7 +47,7 @@ async function updateOraclePrice() {
 // === LOOP ===
 async function main() {
   console.log(`[${new Date().toISOString()}] Oracle Bot Started...`);
-  setInterval(updateOraclePrice, 5000); // Update every 5 seconds (adjust as needed)
+  setInterval(updateOraclePrice, 45000); // Update every 5 seconds (adjust as needed)
 }
 
 main();
